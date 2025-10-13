@@ -937,7 +937,7 @@ eksctl delete cluster \
 ## 👤 Me
 
 - GitHub: [@e-abdelilah](https://github.com/e-abdelilah)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdelilahettarch/)
+- LinkedIn: [Abdelilah ETTARCH](https://www.linkedin.com/in/abdelilahettarch/)
 - Email: ettarch.abdelilah@gmail.com
 
 
