@@ -25,9 +25,9 @@ This project demonstrates a complete end-to-end deployment of a microservices-ba
 ### CI/CD Pipeline Flow
 
 ### System Architecture
-![diagram](https://github.com/user-attachments/assets/49978df6-9055-4947-a0bb-d7e2d39a08ae)
+<img width="1427" height="700" alt="image" src="https://github.com/user-attachments/assets/a0eea496-867e-4e96-9951-983aea373563" />
 
-<img width="720" height="298" alt="image" src="https://github.com/user-attachments/assets/b9daf583-e692-447b-af3a-5778ec819692" />
+<img width="1404" height="712" alt="image" src="https://github.com/user-attachments/assets/b136f142-70a5-42a3-a291-f59f5f4df293" />
 
 
 ```
@@ -158,7 +158,7 @@ git remote add upstream https://github.com/e-abdelilah/Microservices-EKS.git
     ]
 }
 ```
-<img width="1115" height="437" alt="image11" src="https://github.com/user-attachments/assets/7cd8b831-d4f6-4cf1-9945-35d6ba4a7a89" />
+<img width="1115" height="437" alt="image" src="https://github.com/user-attachments/assets/dbfae390-38be-495f-afd2-d4f2b6861936" />
 
 
 4. Generate Access Keys (save them securely)
