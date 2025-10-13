@@ -27,6 +27,7 @@ This project demonstrates a complete end-to-end deployment of a microservices-ba
 ### System Architecture
 <img width="1427" height="700" alt="image" src="https://github.com/user-attachments/assets/a0eea496-867e-4e96-9951-983aea373563" />
 
+
 <img width="1404" height="712" alt="image" src="https://github.com/user-attachments/assets/b136f142-70a5-42a3-a291-f59f5f4df293" />
 
 
